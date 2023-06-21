@@ -13,4 +13,4 @@ I'm a third year Ph.D. student in the [Electrical and Computer Engineering (ECE)
 Previously, I completed my M.Sc. (summa cum laude) under the advisement of Professor [Aviv Tamar](https://avivt.github.io/avivt/), working on offline meta-reinforcement learning, and my B.Sc (summa cum laude), both at the ECE Department of the Technion.  
 
 # News	
-<b>May 2023</b>: DoCoFL got accepted at ICML 2023! 🥳
+<b>May 2023</b>: [DoCoFL](https://rondorf.github.io/publications/DoCoFL) got accepted at ICML 2023! 🥳
