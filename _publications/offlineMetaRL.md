@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/offlineMetaRL
 excerpt: "Consider the following instance of the Offline Meta Reinforcement Learning (OMRL) problem: given the complete training logs of  conventional RL agents, trained on different tasks, design a meta-agent that can quickly maximize reward in a new, unseen task from the same task distribution. In particular, while each conventional RL agent explored and exploited its own different task, the meta-agent must identify regularities in the data that lead to effective exploration/exploitation in the unseen task. Here, we take a Bayesian RL (BRL) view, and seek to learn a Bayes-optimal policy from the offline data. Building on the recent VariBAD BRL approach, we develop an off-policy BRL method that learns to plan an exploration strategy based on an adaptive neural belief estimate. However, learning to infer such a belief from offline data brings a new identifiability issue we term MDP ambiguity. We characterize the problem, and suggest resolutions via data collection and modification procedures. Finally, we evaluate our framework on a diverse set of domains, including difficult sparse reward tasks, and demonstrate learning of effective exploration behavior that is qualitatively different from the exploration used by any RL agent in the data. <br> <br> <a href='https://papers.nips.cc/paper_files/paper/2021/hash/248024541dbda1d3fd75fe49d1a4df4d-Abstract.html'>link</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://github.com/Rondorf/BOReL'>Code</a>
+<a href='https://github.com/Rondorf/BOReL'>code</a>
 &nbsp;&nbsp;&nbsp;&nbsp; <br>" 
 venue: '35th Conference on Neural Information Processing Systems (NeurIPS)'
 date: 2021-12-06
@@ -14,7 +14,7 @@ codeul: 'https://github.com/Rondorf/BOReL'
 Consider the following instance of the Offline Meta Reinforcement Learning (OMRL) problem: given the complete training logs of  conventional RL agents, trained on different tasks, design a meta-agent that can quickly maximize reward in a new, unseen task from the same task distribution. In particular, while each conventional RL agent explored and exploited its own different task, the meta-agent must identify regularities in the data that lead to effective exploration/exploitation in the unseen task. Here, we take a Bayesian RL (BRL) view, and seek to learn a Bayes-optimal policy from the offline data. Building on the recent VariBAD BRL approach, we develop an off-policy BRL method that learns to plan an exploration strategy based on an adaptive neural belief estimate. However, learning to infer such a belief from offline data brings a new identifiability issue we term MDP ambiguity. We characterize the problem, and suggest resolutions via data collection and modification procedures. Finally, we evaluate our framework on a diverse set of domains, including difficult sparse reward tasks, and demonstrate learning of effective exploration behavior that is qualitatively different from the exploration used by any RL agent in the data. <br> <br> 
 <a href='https://papers.nips.cc/paper_files/paper/2021/hash/248024541dbda1d3fd75fe49d1a4df4d-Abstract.html'>link</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://github.com/Rondorf/BOReL'>Code</a>
+<a href='https://github.com/Rondorf/BOReL'>code</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src='/images/offlineMetaRL.png'>
