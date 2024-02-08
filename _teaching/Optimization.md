@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate & Graduate Course"
 permalink: /teaching/Optimization
 venue: "Technion - Israel Institute of Technlogoy, ECE department"
+date: 2019-01-01
 location: "Haifa, Israel"
 ---
 
